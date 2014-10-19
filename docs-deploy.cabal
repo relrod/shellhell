@@ -2,7 +2,7 @@ name:                docs-deploy
 version:             0.1.0.0
 synopsis:            A small program deploy docs of a repo to Github
 -- description:
-homepage:            https://github.com/CodeBlock/docs-deploy
+homepage:            https://github.com/relrod/docs-deploy
 license:             BSD2
 license-file:        LICENSE
 author:              Ricky Elrod
